@@ -1,0 +1,2 @@
+# technohacks-python
+internship tasks
